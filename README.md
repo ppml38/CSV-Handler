@@ -2,7 +2,7 @@
 Java utility framework for .csv file handling
 
 ### Documentation
-![Documentation](https://ppml38.github.io/CSV-Handler/docs/index.html)
+![Documentation](https://ppml38.github.io/CSV-Handler/docs/)
 
 ### What is this?
 This utility is a package of frequently performed operations on .csv files.
